@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="titulos">40dp</dimen>
+    <dimen name="titulosXL">30dp</dimen>
+</resources>
